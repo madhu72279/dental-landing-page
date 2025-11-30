@@ -20,13 +20,6 @@ dental-landing-page/
 ├── images/ ← All images used in the project
 ├── favicon.ico ← Optional, professional touch
 └── README.md ← Project documentation
-## Screenshots
-
-Desktop view:  
-![Desktop View](images/screenshot1.png)
-
-Mobile view:  
-![Mobile View](images/screenshot2.png)
 
 ## Features
 - Fully responsive design  
