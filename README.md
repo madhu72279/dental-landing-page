@@ -23,12 +23,11 @@ dental-landing-page/
 ## Screenshots
 
 Desktop view:  
-![Desktop View](<img width="2467" height="1297" alt="desktop-view" src="https://github.com/user-attachments/assets/a5ce2cde-0537-4293-8233-c734ff8d15b5" />
-)
+![Desktop View](https://github.com/user-attachments/assets/a5ce2cde-0537-4293-8233-c734ff8d15b5)
 
 Mobile view:  
-![Mobile View](<img width="612" height="865" alt="mobile-view" src="https://github.com/user-attachments/assets/79c00173-832a-46a1-8070-643190e288ff" />
-)
+![Mobile View](https://github.com/user-attachments/assets/79c00173-832a-46a1-8070-643190e288ff)
+
 
 ## Features
 - Fully responsive design  
